@@ -29,9 +29,9 @@ pip install tkinter
 
 
 # Run the application:
-Copy code
+Download
 
-python PixelParchment.py
+Open PixelParchment.py
 
 The PixelParchment window will open, allowing you to create, edit, and save text files. Use the menus or keyboard shortcuts to access various features
 and functionalities.
